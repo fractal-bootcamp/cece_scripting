@@ -1,0 +1,13 @@
+setup.py
+boilerplate_cli/__init__.py
+boilerplate_cli/main.py
+boilerplate_cli.egg-info/PKG-INFO
+boilerplate_cli.egg-info/SOURCES.txt
+boilerplate_cli.egg-info/dependency_links.txt
+boilerplate_cli.egg-info/entry_points.txt
+boilerplate_cli.egg-info/requires.txt
+boilerplate_cli.egg-info/top_level.txt
+boilerplate_cli/commands/__init__.py
+boilerplate_cli/commands/docker.py
+boilerplate_cli/commands/prisma.py
+boilerplate_cli/commands/react_express.py

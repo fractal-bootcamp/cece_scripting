@@ -1,0 +1,2 @@
+[console_scripts]
+boilerplate = boilerplate_cli.main:cli
